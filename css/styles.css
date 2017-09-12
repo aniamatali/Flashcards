@@ -1,0 +1,21 @@
+.inactive {
+  display:none;
+}
+
+.active {
+  display:block;
+}
+
+li {
+  cursor: pointer;
+  color:#0088cc;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+li p {
+  color:black;
+  text-decoration:none;
+}
